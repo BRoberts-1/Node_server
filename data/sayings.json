@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "message": "You will be good.",
+    "number": 10,
+    "animal": "Dog"
+  },
+  {
+    "id": 2,
+    "message": "Never give up.",
+    "number": 18,
+    "animal": "Dragon"
+  },
+  {
+    "id": 3,
+    "message": "Don't stop.",
+    "number": 13,
+    "animal": "Fish"
+  }
+]
